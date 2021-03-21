@@ -1,0 +1,38 @@
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\bin\Debug\netcoreapp3.1\Squirrel Photography.exe
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\bin\Debug\netcoreapp3.1\Squirrel Photography.deps.json
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\bin\Debug\netcoreapp3.1\Squirrel Photography.runtimeconfig.json
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\bin\Debug\netcoreapp3.1\Squirrel Photography.runtimeconfig.dev.json
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\bin\Debug\netcoreapp3.1\Squirrel Photography.dll
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\bin\Debug\netcoreapp3.1\Squirrel Photography.pdb
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\bin\Debug\netcoreapp3.1\Squirrel Photography.Views.dll
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\bin\Debug\netcoreapp3.1\Squirrel Photography.Views.pdb
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.csprojAssemblyReference.cache
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.AssemblyInfoInputs.cache
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.AssemblyInfo.cs
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.RazorAssemblyInfo.cache
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.RazorAssemblyInfo.cs
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\staticwebassets\Squirrel Photography.StaticWebAssets.Manifest.cache
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\staticwebassets\Squirrel Photography.StaticWebAssets.xml
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\scopedcss\bundle\Squirrel Photography.styles.css
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.TagHelpers.input.cache
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.TagHelpers.output.cache
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.RazorCoreGenerate.cache
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.RazorTargetAssemblyInfo.cache
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.RazorTargetAssemblyInfo.cs
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.Views.pdb
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.dll
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.pdb
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.genruntimeconfig.cache
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Squirrel Photography.csproj.CopyComplete
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\Renee\Documents\GitHub\SquirrelPhotography\Squirrel Photography\obj\Debug\netcoreapp3.1\Razor\Pages\Gallary.cshtml.g.cs
